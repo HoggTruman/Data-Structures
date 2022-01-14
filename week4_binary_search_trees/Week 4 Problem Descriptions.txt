@@ -1,0 +1,35 @@
+WEEK 4 PROBLEM DESCRIPTIONS
+
+-------------------------------------------------
+1) tree_traversals
+
+You are given a rooted binary tree. Build and output its in-order, pre-order and post-order traversals.
+
+-------------------------------------------------
+2) is_bst
+
+You are given a binary tree with integers as its keys. You need to test whether it is a correct binary
+search tree.
+
+-------------------------------------------------
+3) is_bst_advanced
+
+In this problem you are going to solve the same problem as the previous one, but for a more general case,
+when binary search tree may contain equal keys
+
+-------------------------------------------------
+4) set_range_sum
+
+In this problem, your goal is to implement a data structure to store a set of integers and quickly compute
+range sums.
+
+-------------------------------------------------
+5) rope
+
+You are given a string 𝑆 and you have to process 𝑛 queries. Each query is described by three integers
+𝑖, 𝑗, 𝑘 and means to cut substring 𝑆[𝑖..𝑗] (𝑖 and 𝑗 are 0-based) from the string and then insert it after the
+𝑘-th symbol of the remaining string (if the symbols are numbered from 1). If 𝑘 = 0, 𝑆[𝑖..𝑗] is inserted
+in the beginning.
+
+-------------------------------------------------
+

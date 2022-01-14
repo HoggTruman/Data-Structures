@@ -1,0 +1,37 @@
+WEEK 3 PROBLEM DESCRIPTIONS
+
+-------------------------------------------------
+1) phone_book
+
+In this problem you will implement a simple phone book manager
+
+-------------------------------------------------
+2) hash_chains
+
+In this problem you will implement a hash table using the chaining scheme.
+
+-------------------------------------------------
+3) hash_substring
+
+In this problem your goal is to implement the Rabin–Karp’s algorithm for searching the given pattern
+in the given text.
+
+-------------------------------------------------
+4) substring_equality
+
+In this problem, you will use hashing to design an algorithm that is able to preprocess a given string 𝑠
+to answer any query of the form “are these two substrings of 𝑠 equal?” efficiently
+
+-------------------------------------------------
+5) longest_common_substring
+
+Find the longest common substring of two strings
+
+-------------------------------------------------
+6) matching_with_mismatches
+
+find all text locations where distance from pattern is sufficiently small.
+
+-------------------------------------------------
+
+
